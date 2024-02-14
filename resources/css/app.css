@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.miheader{
+    @apply
+    hidden bg-header text-white
+    sm:flex flex-row justify-around items-center h-15v
+
+
+}

@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "classmap": ["../Examen_Ev1"],
+    "psr-4": {
+      "Clases\\": "../Examen_Ev1/index.php"
+    }
+  }
+
+}

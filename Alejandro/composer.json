@@ -1,0 +1,12 @@
+{
+  "_comment": "CORRECCION => no es correcto no se llaman así los directorios dónde están las clases",
+  "autoload": {
+    "classmap": ["../Alejandro"],
+    "psr-4": {
+      "Clases\\": "../Alejandro/index.html"
+
+
+    }
+  },
+
+}
